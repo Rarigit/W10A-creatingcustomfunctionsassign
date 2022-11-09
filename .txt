@@ -1,0 +1,13 @@
+W10A: Creating Custom Functions
+Due Wednesday by 11:59pm Points 1 Submitting a website url
+Functions are a fundamental topic that is common among all programming languages. Let's practice creating some JavaScript that utilizes functions to organize and clean up our code.
+
+Setup a GitHub repository and local git repository
+Setup the index.html to link to your app.js file that implements the following:
+Write 3 functions:
+Function 1 - This function will take 2 arguments expected to be integers. The function will add the two arguments together and then multiple the result by five. The function will finally return this newly computed value.
+Function 2 - This function will take in 1 argument expected to be a string. The function will return true if the string length is > 10 characters and false otherwise.
+Function 3 - This function will take in 1 argument expected to be an array of strings. The function will return the first element in the array that starts with "ph"
+Hint: There is a very helpful built in method for doing the starts with part.
+Test the functions by calling each one 3 times with different arguments and console logging the returned values
+Add, commit and push to GitHub your changes and submit the GitHub URL.
